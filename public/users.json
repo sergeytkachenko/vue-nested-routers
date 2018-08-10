@@ -1,0 +1,15 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"phone": "+38 0971665017",
+			"fullName": "Sergey Tkachenko"
+		},
+		{
+			"id": 2,
+			"phone": "+79 0971665017",
+			"fullName": "Ivan Ivanov"
+		}
+	],
+	"phone": "0971665017"
+}

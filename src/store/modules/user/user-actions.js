@@ -1,0 +1,2 @@
+export const SEARCH_USER_BY_PHONE = 'SEARCH_USER_BY_PHONE';
+export const LOAD_USER = 'LOAD_USER';
